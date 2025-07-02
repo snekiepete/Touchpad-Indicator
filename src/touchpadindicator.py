@@ -33,7 +33,7 @@ except Exception as e:
 from gi.repository import Gtk
 from gi.repository import Gdk
 from gi.repository import GdkPixbuf
-from gi.repository import AppIndicator3 as appindicator
+from gi.repository import AyatanaAppIndicator3 as appindicator
 from gi.repository import Notify
 from gi.repository import GLib
 import os
